@@ -101,5 +101,6 @@ ENV/
 .mypy_cache/
 
 # Data
-/housenumbers/test_32x32.mat
-/housenumbers/train_32x32.mat
+project_1/housenumbers/test_32x32.mat
+project_1/housenumbers/train_32x32.mat
+chorpus/*
